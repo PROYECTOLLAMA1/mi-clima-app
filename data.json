@@ -1,0 +1,11 @@
+{
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "temperatura": 22,
+    "condiciones": "Despejado",
+    "humedad": 60,
+    "viento": {
+        "direccion": "Norte",
+        "velocidad": 12
+    }
+}
